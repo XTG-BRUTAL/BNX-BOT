@@ -88,10 +88,10 @@ QR Code generator and full instructions available there.
 <table>
 										<tbody>
 											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
+												<td><a href="https://github.com/XTG-BRUTAL/BNX-BOT/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="ARNAB"></a></td>
 </tr>
 											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></br>(Founder)</td>
+												<td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(Founder)</td>
 											</tbody>
 									</table>
 											
