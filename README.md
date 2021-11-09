@@ -89,7 +89,7 @@ QR Code generator and full instructions available there.
 <table>
 										<tbody>
 											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
+												<td><a href="httsp://github.com/BlackAmda/"><img src="https://media1.tenor.com/images/18649b288a194f2aaf94bf43da2921e0/tenor.gif?itemid=23630269" width="100" height="100" alt="Black Amda"></a></td>
 												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://amdaniwasa.com/images/SASMITHA.jpg" width="100" height="100" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
 												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://amdaniwasa.com/images/SAJI.jpg" width="100" height="100" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
 												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://amdaniwasa.com/images/JOKA TAMAH.jpg" width="100" height="100" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
