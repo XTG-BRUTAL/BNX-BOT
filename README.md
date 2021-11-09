@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://media1.tenor.com/images/18649b288a194f2aaf94bf43da2921e0/tenor.gif?itemid=23630269" width="300" height="300">
   <h1>�💎 BNX-BOT 💎�</h1>
 </div>
 <p align="center">
