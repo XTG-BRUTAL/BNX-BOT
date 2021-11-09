@@ -68,7 +68,7 @@
 </p>
 
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+BNX-BOT is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
