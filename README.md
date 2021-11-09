@@ -96,7 +96,7 @@ QR Code generator and full instructions available there.
 												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://amdaniwasa.com/images/DINA.jpg" width="100" height="100" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
 											</tr>
 											<tr>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
+												<td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
 												</td>
 										</tbody>
 									</table>
