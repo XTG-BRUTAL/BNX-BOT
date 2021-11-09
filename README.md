@@ -85,15 +85,13 @@ QR Code generator and full instructions available there.
 </div>
 
 ## BNX DEVLOPERS
-
 <table>
 										<tbody>
 											<tr>
-										  
-						 <tr>	                                    <td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
-										</tbody>
-									</table>
-
+												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
+</tr>
+											<tr>
+												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></br>(Founder)</td>
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
