@@ -90,7 +90,7 @@ QR Code generator and full instructions available there.
 										<tbody>
 											<tr>
 										  
-											<tr>	<td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
+						<tr>	<td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
 										</tbody>
 									</table>
 
