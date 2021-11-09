@@ -89,23 +89,7 @@ QR Code generator and full instructions available there.
 <table>
 										<tbody>
 											<tr>
-												
-											</tr>
-											<tr>
 												<td><a href="https://www.youtube.com/channel/UCVTmh1k-Of3tmHeAk6_3EZw">★彡[ᴀʀɴᴀʙ]彡★</a></br>(FOUNDER)</td>
-												</td>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴋᴀᴘᴀʏᴀ</a></br>(Group Management)</td>
-												<td><a href="https://www.thinknfree.com/">ᴢᴇᴜs</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackAmda/">ᴢᴇʏʀᴇX</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/BlackAmda/">sɪɢᴇᴅᴇʀɪᴇɴ</a></br>(Member)</td>
 										</tbody>
 									</table>
 
