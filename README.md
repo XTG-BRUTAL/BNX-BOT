@@ -92,6 +92,9 @@ QR Code generator and full instructions available there.
 </tr>
 											<tr>
 												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></br>(Founder)</td>
+											</tbody>
+									</table>
+											
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
